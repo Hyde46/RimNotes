@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>RimNotes</name>
+  <author>Piechart</author>
+  <description>Adds extra Tab to take notes</description>
+  <supportedVersions>
+    <li>1.2</li>
+  </supportedVersions>
+</ModMetaData>

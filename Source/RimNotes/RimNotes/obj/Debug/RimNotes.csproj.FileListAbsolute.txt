@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimNotes\Source\RimNotes\RimNotes\obj\Debug\RimNotes.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimNotes\Source\RimNotes\RimNotes\obj\Debug\RimNotes.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimNotes\Source\Assemblies\RimNotes.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimNotes\Source\RimNotes\RimNotes\obj\Debug\RimNotes.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimNotes\Assemblies\RimNotes.dll
